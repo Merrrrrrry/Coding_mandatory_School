@@ -285,10 +285,12 @@ background-color: #E6E6E6;
 /*         .form-control.me-2{
             width: 100px; !!!!!! if yo will put a "width" directly to the .form control 
             (not his parent, not somewhere else!) you will able to change it.
-        } */
+        } 
+
         .form-control.me-2{
             width: 180px;
         }
+        */
         .btn.btn-success{
             width: auto;
             margin-right: 18px;
