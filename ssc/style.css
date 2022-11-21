@@ -159,7 +159,7 @@ button.serif {
     padding-top: 2em;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 720px) {
     .hstack {
       flex-direction: column;
       width: 100%;
@@ -211,7 +211,7 @@ background-color: #E6E6E6;
     width: 30%;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 720px) {
 
     .buttonG {
         flex-wrap: wrap;
