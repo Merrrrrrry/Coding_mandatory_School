@@ -211,6 +211,18 @@ background-color: #E6E6E6;
     width: 30%;
 }
 
+@media screen and (min-width: 338px)and (max-width: 465px) {
+    .form-control.me-2 {
+        width: 130px;
+    }
+    }
+
+@media screen and (min-width: 465px) and (max-width: 750px){
+    .form-control.me-2 {
+        width: auto;
+    }
+    }
+    
 @media screen and (max-width: 720px) {
 
     .buttonG {
@@ -309,7 +321,7 @@ background-color: #E6E6E6;
   
   html{font-size: 16px;}
   
-  @media screen and (max-width: 420px) {
+  @media screen and (max-width: 720px) {
     html{font-size: 14px; }
   }
  
